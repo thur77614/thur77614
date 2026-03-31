@@ -47,19 +47,19 @@
 <table align="center">
   <tr>
     <td align="center" width="130">
-      <a href="mailto:natios638@gmail.com" target="_blank">
+      <a href="mailto:arthur.h.lenhaverde@gmail.com" target="_blank">
         <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="48" height="48" alt="Email" />
       </a>
       <br>Email
     </td>
     <td align="center" width="130">
-      <a href="https://www.instagram.com/theuss__silva" target="_blank">
+      <a href="https://www.instagram.com/thur_017_" target="_blank">
         <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="48" height="48" alt="Instagram" />
       </a>
       <br>Instagram
     </td>
     <td align="center" width="130">
-      <a href="https://www.linkedin.com/in/matheus-santos-b18098343?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+      <a href="https://www.linkedin.com/in/arthur-lenha-verde-8229b6374/" target="_blank">
         <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="48" height="48" alt="LinkedIn" />
       </a>
       <br>LinkedIn
